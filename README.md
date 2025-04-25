@@ -11,6 +11,7 @@ Siga os passos abaixo para rodar o projeto localmente.
 Antes de começar, certifique-se de que você tem as seguintes ferramentas instaladas:
 
 - [Node.js](https://nodejs.org/)
+- [React Vite](https://vite.dev/guide/)
 - [npm](https://www.npmjs.com/)
 
 ### ⚙️ Instalação
